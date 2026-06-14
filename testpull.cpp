@@ -5,7 +5,7 @@
 // including name, date, meals eaten, and calorie intake.
 // The program then displays a formatted nutrition summary as output.
 
-
+// New Message!!
 
 #include <iostream>
 #include <string>
@@ -38,6 +38,8 @@ int main()
     cout << "This application helps keep track of your daily nutrition information." << endl;
     cout << endl;
 
+
+    cout << "Please enter the following information to get started:" << endl;
 
 
     // Ask user information
