@@ -23,7 +23,7 @@
 
 using namespace std;
 
-
+// Function prototypes (if needed, but in this case we will keep everything in main for simplicity)
 // Main function
 // This is the entry point of the program where execution begins
 int main()
