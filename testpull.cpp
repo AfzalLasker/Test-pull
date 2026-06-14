@@ -23,6 +23,9 @@
 
 using namespace std;
 
+
+// Main function
+// This is the entry point of the program where execution begins
 int main()
 {
     // Declare variables
