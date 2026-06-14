@@ -10,6 +10,12 @@
 
 // Include necessary libraries
 
+
+// Libraries used:
+// <iostream> - for input and output operations
+// <string> - for using string data type
+// <iomanip> - for formatting output (e.g., setw, setprecision)
+// <fstream> - for file handling (e.g., ofstream to save report to a
 #include <iostream>
 #include <string>
 #include <iomanip>
@@ -17,6 +23,9 @@
 
 using namespace std;
 
+
+// Main function
+// This is the entry point of the program where execution begins
 int main()
 {
     // Declare variables
